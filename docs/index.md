@@ -4,17 +4,17 @@
 
 ### Chapitre
 
-0. Introduction
+0. [Introduction](./0-introduction.md)
    1.  Motivation
    2.  Langage de programmation
    3.  Interpréteur, Environnement et Outils
 
-1. Les variables
+1. [Les variables](./1-variables.md)
     1.  Les types de base (bool, int, float, str)
     2.  Les types plus avancées (list, dict)
     3.  Les méthodes
 
-2.  Les Controle de flow
+2.  Les Controle de séquences
     1.  Conditions
     2.  Itérations
 
