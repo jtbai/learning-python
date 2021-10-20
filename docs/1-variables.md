@@ -40,5 +40,5 @@ Les types plus avancées permettent de mieux gérer des ensemble de variables af
 Les méthodse sont des opérations qui s'effectuent sur la variable. 
 * [`int`, `float`](https://docs.python.org/3.10/library/stdtypes.html#typesnumeric){_target="_BLANK"}(Types numériques)
 * [`str`](https://docs.python.org/3.10/library/stdtypes.html#str){_target="_BLANK"}(chaînes de caractères)
-* [`list`](https://docs.python.org/3.10/library/stdtypes.html#list){_target="_BLANK"}(Sequence)
+* [`list`](https://docs.python.org/3.10/library/stdtypes.html#sequence-types-list-tuple-range){_target="_BLANK"}(Sequence)
 * [`dict` ](https://docs.python.org/3.10/library/stdtypes.html#dict){_target="_BLANK"}(Types associatif)
