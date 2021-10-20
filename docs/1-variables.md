@@ -17,6 +17,8 @@ Les types de base sont les items les plus utilisés.
 3. float: Nombre à virgule (1.12, 3.141592654)
 4. str: Chaine de caractère ("bonjour", "1234")
 
+also [Fuck Java-Script](./assets/fuck_js.jpg)
+
 ## Les types plus avancées
 Les types plus avancées permettent de mieux gérer des ensemble de variables afin de creer des groupes logiques. 
 
