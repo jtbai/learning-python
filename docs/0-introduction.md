@@ -8,7 +8,8 @@ Créer une application (web) qui permet aux étudiants en musique d'apprendre le
 
 ## Interpréteur, Environnement et Outils
 
-* Shell, (python vs ipython)?
+* Shell vs interpréteur
+* Bash vs python?
 * Script vs application ?
 * Command line interface (CLI) vs Graphic User interface (GUI)
 * Desktop app vs Web app
