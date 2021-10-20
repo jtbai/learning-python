@@ -31,16 +31,14 @@ Les types plus avancées permettent de mieux gérer des ensemble de variables af
   ```
     mon_dict = {"cle1":"valeur1", "cléx":234, "whatever":ma_list}
     mon_dict["nouvelle_clé"] = "valeur de la nouvelle clé"
-    
     mon_dict["cle1"] # retourne "valeur1"
     mon_dict[cle1] # retourne une erreur parce que la variable `cle1` n'existe pas
     mon_dict[1] # Creer une erreur car la clé 1 n'Existe pas, même s'il y a plus d'une clé
-    
   ```
 
 ## Les méthodes
 Les méthodse sont des opérations qui s'effectuent sur la variable. 
-* [`int`, `float` (Types numériques)](https://docs.python.org/3.10/library/stdtypes.html#typesnumeric)
-* [`str` (chaînes de caractères)](https://docs.python.org/3.10/library/stdtypes.html#str)
-* [`list` (Sequence)](https://docs.python.org/3.10/library/stdtypes.html#list)
-* [`dict` (Types associatif)](https://docs.python.org/3.10/library/stdtypes.html#dict)
+* [`int`, `float`](https://docs.python.org/3.10/library/stdtypes.html#typesnumeric){_target="_BLANK"}(Types numériques)
+* [`str`](https://docs.python.org/3.10/library/stdtypes.html#str){_target="_BLANK"}(chaînes de caractères)
+* [`list`](https://docs.python.org/3.10/library/stdtypes.html#list){_target="_BLANK"}(Sequence)
+* [`dict` ](https://docs.python.org/3.10/library/stdtypes.html#dict){_target="_BLANK"}(Types associatif)
