@@ -14,7 +14,7 @@
     2.  Les types plus avancées (list, dict)
     3.  Les méthodes
 
-2.  Les Controle de séquences
+2.  [Les Controle de flow](./2-flow.md)
     1.  Conditions
     2.  Itérations
 
