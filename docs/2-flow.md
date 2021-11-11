@@ -84,12 +84,12 @@ if ma_variable = 4:
 on aura toujours vrai, parce que python est toujours capable d'attribuer 4 à la variable `ma_variable`.
 
 
-### opérateur `!`
-l'opérateur `!` permet d'inverser une conclusion logique et ainsi d'exécuter du code lorsque la condition est fausse
+### opérateur `not`
+l'opérateur `not` permet d'inverser une conclusion logique et ainsi d'exécuter du code lorsque la condition est fausse
 
 
 ```
-if `ma_variable != 4:
+if not `ma_variable == 4:
    `ma_variable` = 1
 ```
 
