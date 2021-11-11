@@ -29,6 +29,7 @@ Les 3 contrôles les plus fréquents
    2. `elif`: combine `else` et `if` permettant d'appliquer une nouvelle condition si la précédente est fausse
 2. `while`: évalue une condition et exécute une boucle de code tant que la condition n'est pas invalidée
 1. `for ... in`: exécute une boucle de code pour chacun des éléments d'un `iterable`
+   1. `break`: dans une boucle for on peut sortir en tout temps grâce à cet opérateur
 
 
 ### iterable
@@ -159,8 +160,12 @@ ma_liste = [1, 2, 3, 4]
 
 
 for mon_element in ma_list:
-    print(mon_element) # imprimera 1, 2, 3, 4
-    print(mon_element + 1) # imprimera 2, 3, 4, 5
+    print(mon_element) # imprimera 1, 2, 3
+    print(mon_element + 1) # imprimera 2, 3, 4
+    if mon_element == 4:
+        print("4 le chiffre du diable")
+        break 
+
 ```
 
 
